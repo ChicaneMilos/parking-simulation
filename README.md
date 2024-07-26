@@ -112,7 +112,7 @@ To install and run this project locally, follow these steps:
 
 If you have any questions, feedback, or inquiries, please feel free to reach out to me at:
 
-- **Email:** [milosjokic16@gmail.com](mailto:milosjokic16@gmail.com)
+- **Email:** [jokic.milos@outlook.com](mailto:jokic.milos@outlook.com)
 
 ## Gallery
 ![Vehicle Status](https://drive.google.com/uc?id=1v7W-iDZu4vC_BKVlbl3o9B1X_3U3in6B)
